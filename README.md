@@ -1,6 +1,14 @@
-##Indice
-*[Ejercicios fáciles](#Ejercicios_Faciles)
+# Pruebas Tecnicas Python
+
+Pequeña demostración de mis capacidades como programador Junior
 
 
-#Ejercicios_Faciles
-Par o Impar
+## Construido con 🛠️
+
+
+* [Python](https://www.python.org/) - Lenguaje de Programación
+
+## Autores ✒️
+
+
+* **Emmanuel M Montesinos** - *Programador Junior* - [emmanuelmmontes](https://github.com/EmmanuelMMontesinos/)
